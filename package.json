@@ -4,7 +4,7 @@
   "description": "Give it datasets, get linked tube relations",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "browserify -s TubeMaps -e index.js > dist/tubemaps.js"
   },
   "repository": {
     "type": "git",
@@ -25,8 +25,5 @@
   },
   "bin": {
     "tubemaps": "./bin/tubemaps.js"
-  },
-  "scripts": {
-    "build": "browserify -s TubeMaps -e index.js > dist/tubemaps.js"
   }
 }
