@@ -1,14 +1,14 @@
 "line","name","colour","stripe"
-1,"Bakerloo Line","AE6017",NULL
-3,"Circle Line","FFE02B",NULL
-6,"Hammersmith & City Line","F491A8",NULL
-7,"Jubilee Line","949699",NULL
-11,"Victoria Line","0A9CDA",NULL
-2,"Central Line","F15B2E",NULL
-4,"District Line","00A166",NULL
-5,"East London Line","FBAE34",NULL
-8,"Metropolitan Line","91005A",NULL
+1,"Bakerloo Line","a45a2a",NULL
+2,"Central Line","da291c",NULL
+3,"Circle Line","ffcd00",NULL
+4,"District Line","007a33",NULL
+5,"East London Line","ffa400",NULL
+6,"Hammersmith & City Line","e89cae",NULL
+7,"Jubilee Line","7c878e",NULL
+8,"Metropolitan Line","840b55",NULL
 9,"Northern Line","000000",NULL
-10,"Piccadilly Line","094FA3",NULL
-12,"Waterloo & City Line","88D0C4",NULL
-13,"Docklands Light Railway","00A77E","FFFFFF"
+10,"Piccadilly Line","10069f",NULL
+11,"Victoria Line","00a3e0",NULL
+12,"Waterloo & City Line","6eceb2",NULL
+13,"Docklands Light Railway","00b2a9","FFFFFF"
