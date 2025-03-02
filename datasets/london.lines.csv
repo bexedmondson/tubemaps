@@ -1,14 +1,20 @@
-"line","name","colour","stripe"
-1,"Bakerloo Line","a45a2a",NULL
-2,"Central Line","da291c",NULL
-3,"Circle Line","ffcd00",NULL
-4,"District Line","007a33",NULL
-5,"East London Line","ffa400",NULL
-6,"Hammersmith & City Line","e89cae",NULL
-7,"Jubilee Line","7c878e",NULL
-8,"Metropolitan Line","840b55",NULL
-9,"Northern Line","000000",NULL
-10,"Piccadilly Line","10069f",NULL
-11,"Victoria Line","00a3e0",NULL
-12,"Waterloo & City Line","6eceb2",NULL
-13,"Docklands Light Railway","00b2a9","FFFFFF"
+"line","name","colour","stripe","stroke"
+1,"Bakerloo Line","#a45a2a",,0
+2,"Central Line","#da291c",,0
+3,"Circle Line","#ffcd00",,0
+4,"District Line","#007a33",,0
+5,"District Line (Limited Service)","#007a33","#ffffff",2
+6,"Hammersmith & City Line","#e89cae",,0
+7,"Jubilee Line","#7c878e",,0
+8,"Metropolitan Line","#840b55",,0
+9,"Northern Line","#000000",,0
+10,"Piccadilly Line","#10069f",,0
+11,"Victoria Line","#00a3e0",,0
+12,"Waterloo & City Line","#6eceb2",,0
+13,"Docklands Light Railway","#00b2a9","#ffffff",0
+14,"London Overground","#e87722","#ffffff",0
+15,"TfL Rail","#10069f","#ffffff",0
+16,"London Trams","#78be20","#ffffff",0
+17,"Emirates Air Line","#c8102e","#ffffff",0
+18,"Walking Links",,"#000000",1
+20,"Interconnected Stations","#000000","#ffffff",-1
