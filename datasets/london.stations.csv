@@ -61,7 +61,7 @@
 60,51.5129,-0.1243,"Covent Garden",1,1,0
 61,51.4957,-0.0144,"Crossharbour",2,1,0
 62,51.647,-0.4412,"Croxley",7,1,0
-63,51.5095,0.0276,"Custom House for ExCeL",3,1,0
+63,51.5095,0.0276,"Custom House",3,1,0
 64,51.4827,-0.0096,"Cutty Sark for Maritime Greenwich",2.5,1,0
 65,51.5085,0.064,"Cyprus",3,1,0
 66,51.5443,0.1655,"Dagenham East",5,1,0
@@ -115,7 +115,7 @@
 114,51.5925,-0.3351,"Harrow & Wealdstone",5,1,1
 115,51.5793,-0.3366,"Harrow-on-the-Hill",5,1,1
 116,51.4669,-0.4227,"Hatton Cross",5.5,1,0
-117,51.4713,-0.4524,"Heathrow Terminals 1, 2 & 3",6,1,0
+117,51.4713,-0.4524,"Heathrow Terminals 2 & 3",6,1,0
 118,51.4598,-0.4476,"Heathrow Terminal 4",6,1,0
 119,51.5829,-0.2259,"Hendon Central",3.5,1,0
 120,51.5033,-0.0215,"Heron Quays",2,1,0
@@ -312,7 +312,7 @@
 312,,,"Hammersmith (H&C)",2,1,0
 313,,,"Canary Wharf (DLR)",2,1,0
 314,,,"Paddington (H&C)",1,2,1
-315,,,"Paddington (NR)",1,1,1
+315,,,"Paddington (XR)",1,1,1
 316,,,"Waterloo (W&C)",1,1,1
 317,,,"Star Lane",2.5,1,0
 318,,,"Abbey Road",2.5,1,0
@@ -374,7 +374,6 @@
 374,,,"Bushey",8,1,1
 375,,,"Watford High Street",8,1,0
 376,,,"Watford Junction",9,1,1
-377,,,"Liverpool Street (NR)",1,2,1
 378,,,"Bethnal Green (LO)",2,1,0
 379,,,"Cambridge Heath",2,1,0
 380,,,"London Fields",2,1,0
@@ -415,8 +414,6 @@
 415,,,"Hanwell",4,1,0
 416,,,"Southall",4,1,0
 417,,,"Hayes & Harlington",5,1,1
-418,,,"Heathrow Central",6,1,0
-419,,,"Heathrow Terminal 4 (NR)",6,1,0
 420,,,"Dundonald Road","T",1,0
 421,,,"Merton Park","T",1,0
 422,,,"Morden Road","T",1,0
@@ -457,3 +454,15 @@
 457,,,"New Addington","T",1,0
 458,,,"Emirates Greenwich Peninsula","S",1,0
 459,,,"Emirates Royal Docks","S",1,0
+460,51.5065,-0.0191,"Canary Wharf (XR)",2,1,0
+461,51.492,0.07,"Woolwich",4,1,0
+462,51.491,0.1208,"Abbey Wood",4,1,1
+463,,,"West Drayton",6,1,0
+464,,,"Iver","X",1,0
+465,,,"Langley","X",1,0
+466,,,"Slough","X",1,1
+467,,,"Burnham","X",1,0
+468,,,"Taplow","X",1,0
+469,,,"Maidenhead","X",1,1
+470,,,"Twyford","X",1,1
+471,,,"Reading","X",1,1
