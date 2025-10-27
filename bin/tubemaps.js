@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 var Maps = require('../').Maps;
-var parser = require("nomnom");
+var parser = require("commander");
 
 parser.command('path')
   .option('city', {
