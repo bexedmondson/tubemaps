@@ -5183,6 +5183,22 @@
             "one_way": "0",
             "notes": "",
             "time": "8"
+        },
+        {
+            "source": "136",
+            "target": "473",
+            "line": "9",
+            "one_way": "0",
+            "notes": "",
+            "time": "2"
+        },
+        {
+            "source": "473",
+            "target": "474",
+            "line": "9",
+            "one_way": "0",
+            "notes": "",
+            "time": "3"
         }
     ],
     "lines": [
@@ -9572,6 +9588,24 @@
             "longitude": "",
             "name": "Barking Riverside",
             "zone": "4",
+            "total_lines": "1",
+            "rail": "0"
+        },
+        {
+            "id": "473",
+            "latitude": "",
+            "longitude": "",
+            "name": "Nine Elms",
+            "zone": "1",
+            "total_lines": "1",
+            "rail": "0"
+        },
+        {
+            "id": "474",
+            "latitude": "",
+            "longitude": "",
+            "name": "Battersea Power Station",
+            "zone": "1",
             "total_lines": "1",
             "rail": "0"
         }
