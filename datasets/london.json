@@ -5401,6 +5401,22 @@
             "stripe": "#ffffff",
             "stroke": "0",
             "icon": ""
+        },
+        {
+            "line": "30",
+            "name": "Change Lines",
+            "colour": "#000000",
+            "stripe": "#ffffff",
+            "stroke": "-1",
+            "icon": "connect"
+        },
+        {
+            "line": "31",
+            "name": "Enter/Exit Station",
+            "colour": "#000000",
+            "stripe": "#ffffff",
+            "stroke": "-1",
+            "icon": "traintunnel"
         }
     ],
     "stations": [

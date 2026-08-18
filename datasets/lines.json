@@ -1,0 +1,218 @@
+[
+    {
+        "line": "1",
+        "name": "Bakerloo Line",
+        "colour": "#a45a2a",
+        "stripe": "",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "2",
+        "name": "Central Line",
+        "colour": "#da291c",
+        "stripe": "",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "3",
+        "name": "Circle Line",
+        "colour": "#ffcd00",
+        "stripe": "",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "4",
+        "name": "District Line",
+        "colour": "#007a33",
+        "stripe": "",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "5",
+        "name": "District Line (Limited Service)",
+        "colour": "#007a33",
+        "stripe": "#ffffff",
+        "stroke": "2",
+        "icon": ""
+    },
+    {
+        "line": "6",
+        "name": "Hammersmith & City Line",
+        "colour": "#e89cae",
+        "stripe": "",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "7",
+        "name": "Jubilee Line",
+        "colour": "#7c878e",
+        "stripe": "",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "8",
+        "name": "Metropolitan Line",
+        "colour": "#840b55",
+        "stripe": "",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "9",
+        "name": "Northern Line",
+        "colour": "#000000",
+        "stripe": "",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "10",
+        "name": "Piccadilly Line",
+        "colour": "#10069f",
+        "stripe": "",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "11",
+        "name": "Victoria Line",
+        "colour": "#00a3e0",
+        "stripe": "",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "12",
+        "name": "Waterloo & City Line",
+        "colour": "#6eceb2",
+        "stripe": "",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "13",
+        "name": "Docklands Light Railway",
+        "colour": "#00b2a9",
+        "stripe": "#ffffff",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "14",
+        "name": "London Overground",
+        "colour": "#e87722",
+        "stripe": "#ffffff",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "15",
+        "name": "Elizabeth Line",
+        "colour": "#6950a1",
+        "stripe": "#ffffff",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "16",
+        "name": "London Trams",
+        "colour": "#78be20",
+        "stripe": "#ffffff",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "17",
+        "name": "Emirates Air Line",
+        "colour": "#c8102e",
+        "stripe": "#ffffff",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "18",
+        "name": "Walking Links",
+        "colour": "",
+        "stripe": "#000000",
+        "stroke": "1",
+        "icon": "walk"
+    },
+    {
+        "line": "20",
+        "name": "Interconnected Stations",
+        "colour": "#000000",
+        "stripe": "#ffffff",
+        "stroke": "-1",
+        "icon": "connect"
+    },
+    {
+        "line": "21",
+        "name": "Liberty (London Overground)",
+        "colour": "#5D6061",
+        "stripe": "#ffffff",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "22",
+        "name": "Lioness (London Overground)",
+        "colour": "#FAA61A",
+        "stripe": "#ffffff",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "23",
+        "name": "Mildmay (London Overground)",
+        "colour": "#0077AD",
+        "stripe": "#ffffff",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "24",
+        "name": "Suffragette (London Overground)",
+        "colour": "#5BBD72",
+        "stripe": "#ffffff",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "25",
+        "name": "Weaver (London Overground)",
+        "colour": "#823A62",
+        "stripe": "#ffffff",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "26",
+        "name": "Windrush (London Overground)",
+        "colour": "#ED1B00",
+        "stripe": "#ffffff",
+        "stroke": "0",
+        "icon": ""
+    },
+    {
+        "line": "30",
+        "name": "Change Lines",
+        "colour": "#000000",
+        "stripe": "#ffffff",
+        "stroke": "-1",
+        "icon": "connect"
+    },
+    {
+        "line": "31",
+        "name": "Enter/Exit Station",
+        "colour": "#000000",
+        "stripe": "#ffffff",
+        "stroke": "-1",
+        "icon": "traintunnel"
+    }
+]
